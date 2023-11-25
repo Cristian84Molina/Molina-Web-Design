@@ -14,7 +14,7 @@
     "@astrojs/preact": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
     "@astrojs/tailwind": "^5.0.0",
-    "astro": "^3.2.2",
+    "astro": "^3.6.0",
     "install": "^0.13.0",
     "npm": "^10.2.0",
     "preact": "^10.18.1",
